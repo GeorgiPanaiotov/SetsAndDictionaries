@@ -1,0 +1,13 @@
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\netcoreapp3.1\SetsAndDictionaries.exe
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\netcoreapp3.1\SetsAndDictionaries.deps.json
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\netcoreapp3.1\SetsAndDictionaries.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\netcoreapp3.1\SetsAndDictionaries.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\netcoreapp3.1\SetsAndDictionaries.dll
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\SetsAndDictionaries\bin\Debug\netcoreapp3.1\SetsAndDictionaries.pdb
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.csprojAssemblyReference.cache
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.dll
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.pdb
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\SetsAndDictionaries\obj\Debug\netcoreapp3.1\SetsAndDictionaries.genruntimeconfig.cache

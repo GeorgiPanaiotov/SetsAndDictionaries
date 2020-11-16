@@ -1,0 +1,13 @@
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\CitiesByContinent\bin\Debug\netcoreapp3.1\CitiesByContinent.exe
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\CitiesByContinent\bin\Debug\netcoreapp3.1\CitiesByContinent.deps.json
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\CitiesByContinent\bin\Debug\netcoreapp3.1\CitiesByContinent.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\CitiesByContinent\bin\Debug\netcoreapp3.1\CitiesByContinent.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\CitiesByContinent\bin\Debug\netcoreapp3.1\CitiesByContinent.dll
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\CitiesByContinent\bin\Debug\netcoreapp3.1\CitiesByContinent.pdb
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\CitiesByContinent\obj\Debug\netcoreapp3.1\CitiesByContinent.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\CitiesByContinent\obj\Debug\netcoreapp3.1\CitiesByContinent.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\CitiesByContinent\obj\Debug\netcoreapp3.1\CitiesByContinent.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\CitiesByContinent\obj\Debug\netcoreapp3.1\CitiesByContinent.dll
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\CitiesByContinent\obj\Debug\netcoreapp3.1\CitiesByContinent.pdb
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\CitiesByContinent\obj\Debug\netcoreapp3.1\CitiesByContinent.genruntimeconfig.cache
+C:\Users\ThinkPad\source\repos\SetsAndDictionaries\CitiesByContinent\obj\Debug\netcoreapp3.1\CitiesByContinent.csprojAssemblyReference.cache
